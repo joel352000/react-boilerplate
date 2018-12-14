@@ -8,9 +8,19 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "From  Modern Javascript Tooling with React https://egghead.io/courses/modern-javascript-tooling-with-react",
   "devDependencies": {
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel352000/react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/joel352000/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/joel352000/react-boilerplate#readme"
 }
